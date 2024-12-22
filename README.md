@@ -5,10 +5,10 @@ This study aims to evaluate the significance of wall viscoelasticity in enhancin
 All the data used by ECRP can be found in the "TPA_Datasets" file.
 
 # Dependency:
-python 3.12.2 
-numpy 1.26.4
-pandas 2.2.1
-scikit-learn 1.4.1.post1
+### python 3.12.2 
+### numpy 1.26.4
+### pandas 2.2.1
+### scikit-learn 1.4.1.post1
 
 # Usage:
 jupyter notebook train_and_test.py
