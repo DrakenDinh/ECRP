@@ -15,3 +15,16 @@ scikit-learn 1.4.1.post1
 
 # Usage:
 jupyter notebook train_and_test.ipynb
+
+# Cite ECRP:
+If you use ECRP for academic research, you are encouraged to cite the following paper:
+
+@article{Dinh10032025,
+author = {Duc-Manh Dinh, Belilla Yonas Berfirdu and Kyehan Rhee},
+title = {Enhancing cardiovascular risk prediction: the role of wall viscoelasticity in machine learning models},
+journal = {Computer Methods in Biomechanics and Biomedical Engineering},
+pages = {1--12},
+year = {2025},
+publisher = {Taylor \& Francis},
+doi = {10.1080/10255842.2025.2475479}
+}
