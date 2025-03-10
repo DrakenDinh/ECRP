@@ -19,6 +19,7 @@ jupyter notebook train_and_test.ipynb
 # Cite ECRP:
 If you use ECRP for academic research, you are encouraged to cite the following paper:
 
+{
 @article{Dinh10032025,
 author = {Duc-Manh Dinh, Belilla Yonas Berfirdu and Kyehan Rhee},
 title = {Enhancing cardiovascular risk prediction: the role of wall viscoelasticity in machine learning models},
