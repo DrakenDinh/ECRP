@@ -15,3 +15,8 @@ scikit-learn 1.4.1.post1
 
 # Usage:
 jupyter notebook train_and_test.ipynb
+
+# Cite ECRP:
+If you use ECRP for academic research, you are encouraged to cite the following paper:
+
+Dinh, D. M., Befirdu, B. Y., & Rhee, K. (2025). Enhancing cardiovascular risk prediction: the role of wall viscoelasticity in machine learning models. Computer Methods in Biomechanics and Biomedical Engineering, 1–12. https://doi.org/10.1080/10255842.2025.2475479
